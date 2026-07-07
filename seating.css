@@ -22,7 +22,7 @@ body {
   color: var(--ink);
   background:
     linear-gradient(rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.08)),
-    url("bg-mini2.jpg") center / cover no-repeat;
+    url("bg-mini.jpg") center / cover no-repeat;
   font-family: "Cormorant Garamond", Georgia, "Times New Roman", serif;
   background-attachment: scroll;
 }
